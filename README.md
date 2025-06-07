@@ -1,6 +1,7 @@
 # 👨‍💻 Marcello
 
-**`Programador Júnior´**
+
+#**`Programador Júnior´**
 Estou iniciando minha jornada como desenvolvedor com foco em criação de jogos.
 
 Já tive a oportunidade de trabalhar por 6 meses com o Construct 3, onde aprendi conceitos importantes sobre lógica, eventos e desenvolvimento de jogos 2D. Agora estou buscando aprofundar meus conhecimentos, aprendendo novas linguagens e ferramentas para evoluir na área.
